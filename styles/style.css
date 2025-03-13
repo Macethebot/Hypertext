@@ -1,8 +1,25 @@
 body {
-  color: red;
+  color: #9d0808;
+  font-family: 'Courier New'; 
 }
 
 h1 {
-  color: red;
+  color: blue;
   font-family: monospace;
 }
+h2{
+color:green; 
+font-family: monospace;
+}
+
+h3{
+  color:purple; 
+  font-family: monospace;
+  }
+
+.about{
+  background-color: wheat;
+
+}
+
+
