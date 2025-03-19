@@ -1,25 +1,33 @@
-body {
+html, body {
+  margin: 10;
+  padding: 0;
+  background-color:white;
   color: #9d0808;
   font-family: 'Courier New'; 
 }
 
-h1 {
-  color: blue;
-  font-family: monospace;
-}
-h2{
-color:green; 
-font-family: monospace;
+.body-text{
+  color: #9d0808;
+  font-family: 'Courier New'; 
 }
 
-h3{
-  color:purple; 
-  font-family: monospace;
-  }
-
-.about{
-  background-color: wheat;
-
+h1{
+ margin: 10;
+ color: #9d0808;
 }
 
+.container {
+  background: red;
+}
 
+canvas {
+  display: block;
+}
+
+.me {
+  color:red;
+}
+
+about{
+  color: #9d0808;
+}
